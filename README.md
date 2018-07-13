@@ -1,11 +1,11 @@
 # econmap
 
 ### Progress
-- Add GDP/GDP per capita (working on)
+- Add GDP/GDP per capita **(current)**
 - Add unemployment
 - Add tree map of export
 - Add comparison betwen countries
-- Add double line graph with certain commodities (oil)
+- Add double line graph with certain commodities (ie oil)
 
 ### Description
 This is a Flask app utilizing D3 to create a visualzation of economic data for each countries.
