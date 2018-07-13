@@ -12,6 +12,6 @@ This is a Flask app utilizing D3 to create a visualzation of economic data for e
 
 ### Sources
 All data is currently taken from the world bank.
-[GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-[GDP per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
-[Unemployment](https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?view=chart)
+[GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) 
+[GDP per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)  
+[Unemployment](https://data.worldbank.org/indicator/SL.UEM.TOTL.NE.ZS?view=chart)  
